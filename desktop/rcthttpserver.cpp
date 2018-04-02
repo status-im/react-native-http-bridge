@@ -17,8 +17,6 @@
 #include <QByteArray>
 #include <QVariantMap>
 
-#include "libstatus.h"
-
 namespace {
 struct RegisterQMLMetaType {
     RegisterQMLMetaType() {
